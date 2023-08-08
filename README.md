@@ -20,3 +20,29 @@ HyperRamp is a decentralized peer to peer on/off ramp based on https://www.recla
 - https://docs.reclaimprotocol.org/
 
 ### Screenshots
+
+#### Flow
+![Flow](https://github.com/Koushith/HyperRamp/assets/30016242/a0e45970-0f81-43ab-b32e-12c6dd5f2f20)
+
+#### Sitemap
+![Sitemap](https://github.com/Koushith/HyperRamp/assets/30016242/e5910654-fb6c-4a03-bf14-df782afc062f)
+
+
+#### Onboarding
+![Onboarding](https://github.com/Koushith/HyperRamp/assets/30016242/e0b74e8f-7ea6-4983-b852-64c2bfebdc94)
+
+#### Creating a Request
+![Creating a Request (1)](https://github.com/Koushith/HyperRamp/assets/30016242/4ac2d418-aa50-473c-b2e9-451a7a588804)
+
+#### Recieving a Request
+![Receiving a request](https://github.com/Koushith/HyperRamp/assets/30016242/765d346d-60dd-4cee-bfdf-29b445d77916)
+
+#### Add new Bank Account
+![Add new bank account](https://github.com/Koushith/HyperRamp/assets/30016242/891f09f6-4858-4ef0-b433-fb38b78154d5)
+
+#### Add new Wallet
+![Add a new wallet](https://github.com/Koushith/HyperRamp/assets/30016242/eafbefd7-f75b-4005-a0a7-dc3c1ccda0bf)
+
+#### Success Push Notification
+![iOS 15 Push Notifications](https://github.com/Koushith/HyperRamp/assets/30016242/ea62327d-56bc-411f-9003-ea9d6899d5f5)
+
