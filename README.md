@@ -1,4 +1,4 @@
-#### HyperRamp
+#### HyperRamp - WIP
 
 HyperRamp is a decentralized peer to peer on/off ramp based on https://www.reclaimprotocol.org/
 
