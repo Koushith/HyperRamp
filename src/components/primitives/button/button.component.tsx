@@ -1,4 +1,5 @@
-import {Button as ButtonComponent} from 'react-native';
+import {Button as ButtonComponent, Image} from 'react-native';
+
 export const Button = () => {
   return (
     <>
