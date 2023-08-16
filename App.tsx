@@ -49,7 +49,11 @@ function App(): JSX.Element {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
   };
 
-  return <SafeAreaView style={backgroundStyle}></SafeAreaView>;
+  return (
+    <SafeAreaView style={backgroundStyle}>
+      <Text>Home Screen</Text>
+    </SafeAreaView>
+  );
 }
 
 const styles = StyleSheet.create({
