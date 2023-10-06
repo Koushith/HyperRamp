@@ -2,6 +2,8 @@
 
 HyperRamp is a decentralized peer to peer on/off ramp based on https://www.reclaimprotocol.org/
 
+Figma - https://www.figma.com/file/0u2xwd8lK7HI8z7WaBKADK/HyperRamp?type=design&node-id=0-1&mode=design
+
 ### How does it work?
 
 - A has crypto on-chain
